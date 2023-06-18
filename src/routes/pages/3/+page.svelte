@@ -159,7 +159,7 @@
         src="https://3.bp.blogspot.com/-jaKEuQoRMHw/VuAKkFzU7UI/AAAAAAAAAgw/7LDm6qbrmHM/s1600/distro-graphic.png"
         alt=""
     />
-    <p class="text-muted">Verchiedene Linux Distros</p>
+    <p class="text-muted">Verschiedene Linux Distros</p>
 </div>
 
 <hr />
