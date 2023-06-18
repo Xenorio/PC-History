@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Roboto&display=swap');
+
+html {
+    scroll-behavior: auto !important;
+}
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+#navprev {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+}
+
+#navnext {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+}
+
+.title {
+    margin-bottom: 3rem;
+}
+
+.sources a {
+    display: block;
+    margin-top: 1rem;
+    text-decoration: none;
+}
+
+.timeline {
+    border-left: 1px solid hsl(0, 0%, 90%);
+    position: relative;
+    list-style: none;
+}
+
+.timeline .timeline-item {
+    position: relative;
+}
+
+.timeline .timeline-item:after {
+    position: absolute;
+    display: block;
+    top: 0;
+}
+
+.timeline .timeline-item:after {
+    background-color: hsl(0, 0%, 90%);
+    left: -38px;
+    border-radius: 50%;
+    height: 11px;
+    width: 11px;
+    content: "";
+}
+
+.timeline img {
+    max-width: 250px;
+}
+
+.timeline .big {
+    max-width: 500px;
+    min-width: 450px;
+}
+
+.section-side {
+    float: right;
+}
