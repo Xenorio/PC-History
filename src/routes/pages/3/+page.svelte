@@ -162,24 +162,6 @@
     <p class="text-muted">Verschiedene Linux Distros</p>
 </div>
 
-<hr />
-
-<div class="sources">
-    <h3>Quellen</h3>
-    <h4>
-        <a href="https://www.imdb.com/title/tt0308808/" target="_blank"
-            >Doku: Revolution OS</a
-        >
-        <a href="https://stallman.org/stallman-computing.html" target="_blank"
-            >Richard Stallman: How I do my computing</a
-        >
-        <a href="https://youtu.be/Ag1AKIl_2GM" target="_blank"
-            >YouTube: TEDx Talks | Free software, free society: Richard Stallman
-            at TEDxGeneva 2014</a
-        >
-    </h4>
-</div>
-
 <style>
     img {
         max-width: 500px;

@@ -229,22 +229,3 @@
         - In Schulen vorherrschend
     </h3>
 </div>
-
-<hr>
-
-<div class="sources">
-    <h3>Quellen</h3>
-    <h4>
-        <a href="https://www.pcjs.org" target="_blank">PCjs</a>
-        <a href="https://youtu.be/cRsqjy-qqag" target="_blank"
-            >YouTube: Techquickie | Every Windows Version Ever!</a
-        >
-        <a href="https://youtu.be/TLgRryt2ZtE" target="_blank"
-            >YouTube: Linus Tech Tips | Was Windows Vista THAT bad?</a
-        >
-        <a href="https://www.xda-developers.com/windows-11/" target="_blank"
-            >XDA Developers: Windows 11</a
-        >
-        <a href="https://venturebeat.com/business/windows-10-passes-10-market-share-overtakes-windows-8-1-and-windows-xp/" target="_blank">VentureBeat.com</a>
-    </h4>
-</div>

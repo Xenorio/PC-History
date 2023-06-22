@@ -3,7 +3,7 @@
     import { goto } from "$app/navigation";
 
     function nextPage() {
-        if ($page >= 5) {
+        if ($page >= 6) {
             page.set(0)
             goto('/')
             return;

@@ -43,6 +43,7 @@
 <div class="container">
     <h1>Die Geschichte des PCs</h1>
     <h2>Eine Reise durch die Welt des Personal Computers</h2>
+    <h4>Von Marcus Huber</h4>
 
     <button class="btn btn-primary" on:click={start}>Start</button>
 </div>

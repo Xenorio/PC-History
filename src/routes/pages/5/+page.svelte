@@ -1,5 +1,5 @@
 <div class="content" id="content">
-    <h1>Ende der Präsentation</h1>
+    <h1>Vielen Dank für Ihre Aufmerksamkeit!</h1>
 </div>
 
 <style>
